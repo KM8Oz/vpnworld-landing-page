@@ -1,5 +1,5 @@
 {
-    "name": "landing-page",
+    "name": "vpnworld-landing-page",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -41,6 +41,10 @@
     },
     "resolutions": {
         "styled-components": "^5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:KM8Oz/vpnworld-landing-page.git"
     },
     "homepage": "https://km8oz.github.io/vpnworld-landing-page",
     "devDependencies": {
