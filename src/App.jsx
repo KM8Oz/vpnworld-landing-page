@@ -1,6 +1,7 @@
 import { Provider, Heading, Subhead } from 'rebass'
 import {
-  Hero, CallToAction, ScrollDownIndicator,
+  Hero, CallToAction, 
+  // ScrollDownIndicator,
   Flex, Phone, Laptop, SignUp
 } from 'react-landing-page'
 import styledComponents from 'styled-components';
@@ -90,9 +91,9 @@ const NavLink = styledComponents.a`
 const Small = styledComponents.span`
   font-size:14px;
 `;
-const ScrollDownIndicatorStyled = styledComponents(ScrollDownIndicator)`
-  cursor: pointer;
-`;
+// const ScrollDownIndicatorStyled = styledComponents(ScrollDownIndicator)`
+//   cursor: pointer;
+// `;
 const HeroStyled = styledComponents(Hero)`
       overflow:hidden;
 `;
