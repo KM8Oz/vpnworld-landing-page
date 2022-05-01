@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vpnworld-landing-page/precache-manifest.4b4f8090fb35dd5aa12d561e5e5547a3.js"
+  "/vpnworld-landing-page/precache-manifest.d341a669f9e763abae05ec0f49eca110.js"
 );
 
 workbox.clientsClaim();
