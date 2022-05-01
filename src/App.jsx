@@ -73,7 +73,7 @@ function App() {
             </Flex>
           </Flex>
           <Flex width={[1]} mb={100} flexDirection={"column"} mt={10} flexWrap='wrap' alignItems={"center"} justifyContent='center'>
-            <HeadingStyled >Подпишитесь на нашу рассылку новостей</HeadingStyled>
+            <HeadingStyled >Отправьте свое электронное письмо, чтобы добавить вас в ограниченную группу тестирования</HeadingStyled>
             <SignUp color={"#000"} Label="электронная почта" onSubmit={(email) => window.location.assign("mailto:cloud0@markate.ru?Bcc=" + email + "&Subject=" + encodeURIComponent("vpnworld releases subscription") + "&body=" + encodeURIComponent("i would like to subscribe for you news latter related to vpnworld."))} mt={3} />
           </Flex>
           <Flex width={[1]} is="footer" alignItems="center" justifyContent={"space-between"} p={3}>
