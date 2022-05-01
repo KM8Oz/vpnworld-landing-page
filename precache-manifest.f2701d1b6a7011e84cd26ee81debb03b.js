@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d01623c7269e14e85b7d",
+    "revision": "33d5c4a2eeef6e26867f",
     "url": "/vpnworld-landing-page/static/css/main.ce20446f.chunk.css"
   },
   {
-    "revision": "d01623c7269e14e85b7d",
-    "url": "/vpnworld-landing-page/static/js/main.d01623c7.chunk.js"
+    "revision": "33d5c4a2eeef6e26867f",
+    "url": "/vpnworld-landing-page/static/js/main.33d5c4a2.chunk.js"
   },
   {
     "revision": "56dbc343fe2dac40479d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/vpnworld-landing-page/static/js/runtime~main.72fdf0d1.js"
   },
   {
-    "revision": "7f54225c25e51b3dfa2e490ede35827d",
+    "revision": "c513b8423f71a7b8f69ca9bd3c418960",
     "url": "/vpnworld-landing-page/index.html"
   }
 ];
