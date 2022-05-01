@@ -78,7 +78,7 @@ function App() {
           <NavLink children="mobile" href="#mobile" />
           <NavLink children="desktop" href="#desktop" />
         </Flex>
-        <Small color="#fff"  ml="auto">© OLDI Development, 2022</Small>
+        <Small color="#fff"  ml="auto">© OLDI Development OOO, 2022</Small>
       </Flex>
       </HeroStyled>
     </Provider>
