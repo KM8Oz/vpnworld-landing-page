@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vpnworld/static/css/main.7de9ffc7.css",
-    "main.js": "/vpnworld/static/js/main.371dde61.js",
-    "static/js/787.6606bfd5.chunk.js": "/vpnworld/static/js/787.6606bfd5.chunk.js",
-    "index.html": "/vpnworld/index.html",
-    "main.7de9ffc7.css.map": "/vpnworld/static/css/main.7de9ffc7.css.map",
-    "main.371dde61.js.map": "/vpnworld/static/js/main.371dde61.js.map",
-    "787.6606bfd5.chunk.js.map": "/vpnworld/static/js/787.6606bfd5.chunk.js.map"
+    "main.css": "/vpnworld-landing-page/static/css/main.7de9ffc7.css",
+    "main.js": "/vpnworld-landing-page/static/js/main.5a87a894.js",
+    "static/js/787.6606bfd5.chunk.js": "/vpnworld-landing-page/static/js/787.6606bfd5.chunk.js",
+    "index.html": "/vpnworld-landing-page/index.html",
+    "main.7de9ffc7.css.map": "/vpnworld-landing-page/static/css/main.7de9ffc7.css.map",
+    "main.5a87a894.js.map": "/vpnworld-landing-page/static/js/main.5a87a894.js.map",
+    "787.6606bfd5.chunk.js.map": "/vpnworld-landing-page/static/js/787.6606bfd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7de9ffc7.css",
-    "static/js/main.371dde61.js"
+    "static/js/main.5a87a894.js"
   ]
 }
