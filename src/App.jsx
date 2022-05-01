@@ -35,7 +35,7 @@ function App() {
               <Heading textAlign={"center"}>Мобильное приложение <Name>VPNWOLRD</Name></Heading>
               <Subhead fontSize={[2, 3]}>Скачать</Subhead>
               <Flex mt={2} flexWrap='wrap' justifyContent='center'>
-                <CallToActionStyled bg="black" mb={2}><AppleIcon size={25} />Скоро будет</CallToActionStyled>
+                <CallToActionStyled bg="black" mb={2}><AppleIcon size={25} />Скоро будет...</CallToActionStyled>
                 <CallToActionStyled
                   onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/app-release.apk")}
                   bg="black"><AndroidStyled />Universal Apk</CallToActionStyled>
