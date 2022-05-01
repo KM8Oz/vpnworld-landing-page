@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+}
+
+*::-webkit-scrollbar,
+*::-moz-scrollbar {
+    display: none;
+}
+
+body {
+    margin: 0;
+    background-color: #192225;
+}
