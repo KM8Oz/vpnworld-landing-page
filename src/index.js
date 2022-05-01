@@ -4,7 +4,10 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Favicon from 'react-favicon';
 import "./global.css"
+import { SuperSEO } from "react-super-seo";
+
 document.title = "VPN-приложение";
+
 // var link = document.querySelector("link[rel~='icon']");
 // if (!link) {
 //     link = document.createElement('link');
@@ -15,6 +18,23 @@ document.title = "VPN-приложение";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <SuperSEO
+        title="VPN-приложение | VpnWorld"
+        description="быстрый vpn-туннель для разблокировки вашего опыта работы в сети."
+        lang="ru"
+        openGraph={{
+          ogImage: {
+            ogImage: 'https://res.cloudinary.com/dupagadir/image/upload/v1651409226/Vectary_texture_xncxxr.png',
+            ogImageAlt: 'VpnWorld',
+            ogImageWidth: 538,
+            ogImageHeight: 297,
+            ogImageType: 'image/jpeg',
+          },
+        }}
+        viewport={"width=device-width, initial-scale=1"}
+        charset={"UTF-8"}
+        googlebot={"index"}
+      />
     <App />
     <Favicon url="https://res.cloudinary.com/dupagadir/image/upload/v1651410941/frame-3_anscx7.ico"/>
   </React.StrictMode>

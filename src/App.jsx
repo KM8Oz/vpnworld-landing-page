@@ -11,12 +11,10 @@ import { AppleIcon } from './icons';
 import styled from "styled-components";
 import Windows from './icons/Windows';
 import Macos from './icons/Macos';
-import { SuperSEO } from "react-super-seo";
 
 
 function App() {
   return (
-    <>
       <Provider>
         <HeroStyled
           className={"hero0"}
@@ -40,7 +38,7 @@ function App() {
                 <Flex mt={2} flexWrap='wrap' justifyContent='center'>
                   <CallToActionStyled 
                   onClick={() => document.location.assign("itms-services://?action=download-manifest&url=https://www.installonair.com/storage/ipaz/MymQR2/MymQR2.plist")}
-                  bg="black" mb={2}><AppleIcon size={25} />Shared ipa</CallToActionStyled>
+                  bg="black" mb={2}><AppleIcon size={25} />Shared ipa (limited)</CallToActionStyled>
                   <CallToActionStyled
                     onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/app-release.apk")}
                     bg="black"><AndroidStyled />Universal Apk</CallToActionStyled>
@@ -85,24 +83,6 @@ function App() {
           </Flex>
         </HeroStyled>
       </Provider>
-      <SuperSEO
-        title="VPN-приложение | VpnWorld"
-        description="быстрый vpn-туннель для разблокировки вашего опыта работы в сети."
-        lang="ru"
-        openGraph={{
-          ogImage: {
-            ogImage: 'https://res.cloudinary.com/dupagadir/image/upload/v1651409226/Vectary_texture_xncxxr.png',
-            ogImageAlt: 'VpnWorld',
-            ogImageWidth: 538,
-            ogImageHeight: 297,
-            ogImageType: 'image/jpeg',
-          },
-        }}
-        viewport={"width=device-width, initial-scale=1"}
-        charset={"UTF-8"}
-        googlebot={"index"}
-      />
-    </>
   );
 }
 const HeadingStyled = styledComponents(Heading)`
