@@ -1,7 +1,7 @@
 {
   "main.css": "/vpnworld-landing-page/static/css/main.ce20446f.chunk.css",
-  "main.js": "/vpnworld-landing-page/static/js/main.db89e4d1.chunk.js",
-  "main.js.map": "/vpnworld-landing-page/static/js/main.db89e4d1.chunk.js.map",
+  "main.js": "/vpnworld-landing-page/static/js/main.d01623c7.chunk.js",
+  "main.js.map": "/vpnworld-landing-page/static/js/main.d01623c7.chunk.js.map",
   "static/js/1.56dbc343.chunk.js": "/vpnworld-landing-page/static/js/1.56dbc343.chunk.js",
   "static/js/1.56dbc343.chunk.js.map": "/vpnworld-landing-page/static/js/1.56dbc343.chunk.js.map",
   "static/js/2.b98971dd.chunk.js": "/vpnworld-landing-page/static/js/2.b98971dd.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/vpnworld-landing-page/static/js/runtime~main.72fdf0d1.js.map",
   "static/css/main.ce20446f.chunk.css.map": "/vpnworld-landing-page/static/css/main.ce20446f.chunk.css.map",
   "index.html": "/vpnworld-landing-page/index.html",
-  "precache-manifest.d341a669f9e763abae05ec0f49eca110.js": "/vpnworld-landing-page/precache-manifest.d341a669f9e763abae05ec0f49eca110.js",
+  "precache-manifest.2e097c7d0459b4fc251a45d2eebac11f.js": "/vpnworld-landing-page/precache-manifest.2e097c7d0459b4fc251a45d2eebac11f.js",
   "service-worker.js": "/vpnworld-landing-page/service-worker.js"
 }
