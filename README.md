@@ -1,1 +1,1 @@
-# vpnworld landing page: vpn.oldidev.ru
+# vpnworld landing page: vpnworld.oldidev.ru
