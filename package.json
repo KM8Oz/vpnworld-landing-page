@@ -50,7 +50,7 @@
         "type": "git",
         "url": "git@github.com:KM8Oz/vpnworld-landing-page.git"
     },
-    "homepage": "https://km8oz.github.io/vpnworld-landing-page",
+    "homepage": "http://vpnworld.oldidev.ru",
     "devDependencies": {
         "babel-plugin-styled-components": "^2.0.7"
     }
