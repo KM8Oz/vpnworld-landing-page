@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.cfbbace2.js"
   },
   {
-    "revision": "63dae2d5e29185729e0d033d4cebc766",
+    "revision": "db6ff1d84fb40ac58a263b6e5bbc610c",
     "url": "/index.html"
   }
 ];
