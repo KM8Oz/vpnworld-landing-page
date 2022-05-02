@@ -1,15 +1,15 @@
 {
-  "main.css": "/vpnworld-landing-page/static/css/main.3504517d.chunk.css",
-  "main.js": "/vpnworld-landing-page/static/js/main.2d10bd51.chunk.js",
-  "main.js.map": "/vpnworld-landing-page/static/js/main.2d10bd51.chunk.js.map",
-  "static/js/1.56dbc343.chunk.js": "/vpnworld-landing-page/static/js/1.56dbc343.chunk.js",
-  "static/js/1.56dbc343.chunk.js.map": "/vpnworld-landing-page/static/js/1.56dbc343.chunk.js.map",
-  "static/js/2.3838c833.chunk.js": "/vpnworld-landing-page/static/js/2.3838c833.chunk.js",
-  "static/js/2.3838c833.chunk.js.map": "/vpnworld-landing-page/static/js/2.3838c833.chunk.js.map",
-  "runtime~main.js": "/vpnworld-landing-page/static/js/runtime~main.72fdf0d1.js",
-  "runtime~main.js.map": "/vpnworld-landing-page/static/js/runtime~main.72fdf0d1.js.map",
-  "static/css/main.3504517d.chunk.css.map": "/vpnworld-landing-page/static/css/main.3504517d.chunk.css.map",
-  "index.html": "/vpnworld-landing-page/index.html",
-  "precache-manifest.6b9281e0f1139309070785af32c2eff2.js": "/vpnworld-landing-page/precache-manifest.6b9281e0f1139309070785af32c2eff2.js",
-  "service-worker.js": "/vpnworld-landing-page/service-worker.js"
+  "main.css": "/static/css/main.3504517d.chunk.css",
+  "main.js": "/static/js/main.2d10bd51.chunk.js",
+  "main.js.map": "/static/js/main.2d10bd51.chunk.js.map",
+  "static/js/1.56dbc343.chunk.js": "/static/js/1.56dbc343.chunk.js",
+  "static/js/1.56dbc343.chunk.js.map": "/static/js/1.56dbc343.chunk.js.map",
+  "static/js/2.740f9319.chunk.js": "/static/js/2.740f9319.chunk.js",
+  "static/js/2.740f9319.chunk.js.map": "/static/js/2.740f9319.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.cfbbace2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.cfbbace2.js.map",
+  "static/css/main.3504517d.chunk.css.map": "/static/css/main.3504517d.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.0cf48745dded4c83780f6d4760275c9c.js": "/precache-manifest.0cf48745dded4c83780f6d4760275c9c.js",
+  "service-worker.js": "/service-worker.js"
 }
