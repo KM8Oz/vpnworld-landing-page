@@ -11,6 +11,7 @@ import { AppleIcon } from './icons';
 import styled from "styled-components";
 import Windows from './icons/Windows';
 import Macos from './icons/Macos';
+import Linux from './icons/Linux';
 
 
 function App() {
@@ -66,7 +67,11 @@ function App() {
                 <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld-4.5.0-arm64.pkg")} mt={3} bg='black'><Macos style={{
                   marginRight: 10
                 }} size={20} /> Macos arm64</CallToActionStyled>
+                <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld_4.5.0_amd64.deb ")} mt={3} bg='black'><Linux style={{
+                  marginRight: 10
+                }} size={20} /> Linux (arm64/i32)</CallToActionStyled>
               </Flex>
+              {/* https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld_4.5.0_amd64.deb */}
               <Laptop mt={3} src={"https://res.cloudinary.com/dupagadir/image/upload/v1651401708/desktop_fqzqoe.png"} />
             </Flex>
           </Flex>
