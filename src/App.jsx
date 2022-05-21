@@ -18,6 +18,8 @@ import Faq from "react-faq-component";
 // import Videojs from './components/videojs';
 // import 'video.js/dist/video-js.css';
 import CLOSEbtn from "./icons/Close"
+import Intel from './icons/intel';
+import M1Mac from './icons/M1Mac';
 
 const Faqstyles = {
   bgColor: '#ffffff00',
@@ -150,8 +152,16 @@ function App() {
                   <p>Mac OS</p>
                   <div className='insider'>
                     <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld-4.5.0.pkg")} mt={3} bg='black'>
+                     <Intel style={{
+                       marginRight: 10
+                     }} />
                      Intel CPU</CallToActionStyled>
                     <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld-4.5.0-arm64.pkg")} mt={3} bg='black'>
+                      <M1Mac 
+                      style={{
+                        marginRight: 10
+                      }}
+                      />
                       M1 CPU</CallToActionStyled>
                   </div>
                 </CustomPicker>
