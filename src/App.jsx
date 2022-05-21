@@ -149,13 +149,10 @@ function App() {
                   }} size={20} />
                   <p>Mac OS</p>
                   <div className='insider'>
-                    <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld-4.5.0.pkg")} mt={3} bg='black'><Macos style={{
-                      marginRight: 10
-                    }} size={20} /> Macos x86_64</CallToActionStyled>
+                    <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld-4.5.0.pkg")} mt={3} bg='black'>
+                     Intel CPU</CallToActionStyled>
                     <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld-4.5.0-arm64.pkg")} mt={3} bg='black'>
-                      <Macos style={{
-                        marginRight: 10
-                      }} size={20} /> Macos arm64</CallToActionStyled>
+                      M1 CPU</CallToActionStyled>
                   </div>
                 </CustomPicker>
                 <CallToActionStyled onClick={() => document.location.assign("https://github.com/KM8Oz/vpn-world-desktop/releases/download/v4.5.0/vpnworld_4.5.0_amd64.deb ")} mt={3} bg='black'><Linux style={{
