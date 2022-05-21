@@ -14,3 +14,25 @@ body {
     margin: 0;
     background-color: #192225;
 }
+
+.video0 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all ease-in-out 200ms;
+    opacity: 0;
+    transform: scale(0);
+    margin-top: 5px;
+}
+
+.showvideo {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.showvideo video {
+    border-radius: 10px;
+    overflow: hidden;
+}
