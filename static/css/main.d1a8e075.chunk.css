@@ -1,0 +1,2 @@
+*{box-sizing:border-box;-ms-overflow-style:none;scrollbar-width:none}::-moz-scrollbar,::-webkit-scrollbar{display:none}body{margin:0;background-color:#192225}.video0{width:100%;height:auto;display:flex;justify-content:center;align-items:center;transition:all .2s ease-in-out;opacity:0;-webkit-transform:scale(0);transform:scale(0);margin-top:5px}.showvideo{opacity:1;-webkit-transform:scale(1);transform:scale(1)}.showvideo video{border-radius:10px;overflow:hidden}
+/*# sourceMappingURL=main.d1a8e075.chunk.css.map */
