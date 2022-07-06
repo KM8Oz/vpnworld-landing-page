@@ -124,7 +124,7 @@ function App() {
                     onClick={() => document.location.assign("https://apps.apple.com/ru/app/vpnworld/id1624305127")}
                     bg="black" mb={2}><AppleIcon size={25} />Apple Store</CallToActionStyled>
                   <CallToActionStyled
-                    onClick={() => document.location.assign("https://expo.dev/artifacts/eas/73awSvNc1Kzr8Sv1UPtW2t.apk")}
+                    onClick={() => document.location.assign("https://github.com/KM8Oz/vpnworld-landing-page/releases/download/v1.018/76129bdd-6a14-4535-a20c-bffb53e5baf9-b12787e7e6814f3abff49804da1110ce.apk")}
                     bg="black"><AndroidStyled />Universal Apk</CallToActionStyled>
                 </Flex>
               </Flex>
